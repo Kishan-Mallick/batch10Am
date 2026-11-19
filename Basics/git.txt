@@ -1,0 +1,13 @@
+Git -> Version Control System
+
+VCS
+
+
+git --version -> To check version number if shown that mean installed properly....
+
+config
+
+User Name - git config --global user.name "Kishan"
+User Email - git config --global user.email "Kishan@gmail.com"
+
+intialise Git -> git init 

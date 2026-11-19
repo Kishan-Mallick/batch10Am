@@ -1,0 +1,28 @@
+VS Code Install
+GIt / Git hub
+DSA - proggamming specific -> Logic Building - problem solving - Tc _ Sc
+Common to all Programming Lang
+
+    -> Operator
+    -> Data Type
+    -> variable
+    -> control statement
+    -> Loops
+    -> Function
+    -> Pointer in c & cpp
+    -> Dynamic memory allocation (new keyword)
+    -> DMA (malloc ,calloc, realloc \ new , delete) c and cpp
+    -> user defined datatype (class in java / struct and union and class in c & cpp)
+    -> OOPs
+    -> Class, Object, abstraction, encapsulation method
+
+
+DSA in JAVA
+    -> I will using c & cpp.
+    -> Syntax 
+    -> Logic
+    -> Extra effort
+
+Create 2 profile
+    -> leetcode
+    -> Geeks for Geeks
