@@ -11,3 +11,11 @@ User Name - git config --global user.name "Kishan"
 User Email - git config --global user.email "Kishan@gmail.com"
 
 intialise Git -> git init 
+
+echo "# batch10Am" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Kishan-Mallick/batch10Am.git
+git push -u origin main
