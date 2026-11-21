@@ -27,3 +27,13 @@ git pull origin main
 git branch
 
 git status - check current status
+
+git check -b "branch name" -> create new branch and checkout
+
+git checkout branchName -> for checkout
+
+git merge branchName
+
+git pull origin main if within main branch just sync the data with remote
+
+git pull origin kishan if within main branch just sync the data with remote and check for conflict
